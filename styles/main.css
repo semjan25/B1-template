@@ -177,9 +177,13 @@ footer{
 .fun-for-family, .accessibility, .rides, .open-forever{;
   text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
 }
+.pointer{
+  cursor: pointer;
+}
 .hidden-on-lg{
   display: none;
 }
+
 .hidden-on-sm{
   display: block;
 }
