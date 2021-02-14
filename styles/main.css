@@ -174,7 +174,9 @@ footer{
 .copyright{
   text-align: center;
 }
-
+.fun-for-family, .accessibility, .rides, .open-forever{;
+  text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+}
 .hidden-on-lg{
   display: none;
 }
